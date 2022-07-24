@@ -1,5 +1,5 @@
 - Hi, I’m Matko
-- I’m a begginer in: c++, python, HTML and JavaScript
+- I’m a beginner in: c++, python, HTML and JavaScript
 
 
 <!---
