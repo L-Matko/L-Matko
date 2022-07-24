@@ -1,6 +1,5 @@
-- Hi, I’m @L-Matko
-- I’m a begginer in c++ 
-- I’m currently learning HTML
+- Hi, I’m Matko
+- I’m a begginer in: c++, python, HTML and JavaScript
 
 
 <!---
